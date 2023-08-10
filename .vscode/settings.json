@@ -1,0 +1,8 @@
+{
+  //Курсор
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "json.schemas": []
+}
